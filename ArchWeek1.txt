@@ -1,0 +1,35 @@
+4. 2 ^ 16 or 65,536 patterns can be stored in a 16 bit register.
+   32,767 is the largest value that can be stored as a signed integer.
+   -32,768 is the smallest value.
+   65,535 is the largest value that can be stored as an unsigned integer
+   0 is the smallest value that can be stored as an unsigned integer
+
+5. 1001,1100,1110,1110 = 0x9CEE = 40,174
+   1111,1111,1111,1111 = 0xFFFF = 65,535
+   0000,0000,1111,1111 = 0x00FF = 255
+   0100,1000,1000,0100 = 0x4884 = 18,564
+   1111,1111,0000,0000 = 0xFF00 = 65,280
+   1100,1010,1111,1110 = 0xCAFE = 51,966
+
+6. 1) 2.5
+   2) 8.13
+   3) -8.38
+   4) -0.625
+   5) 0.42476265
+   6) 0.5
+   7) 75.5
+   8) 68.69
+   9) 100000
+   10)1000000
+   
+7.
+
+8. I don't think there are but I'm not sure why.
+
+9. 0x46726564
+
+10. 0xEasy
+
+11. There's a typo here I think. Maybe instead of 'is' its supposed to be 1s
+    in which case the answer is false because it could be a very small number
+    using two's compliment.
